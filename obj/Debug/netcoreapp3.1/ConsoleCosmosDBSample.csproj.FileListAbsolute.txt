@@ -18,3 +18,10 @@ E:\Desenv\Cosmos DB Tutorial\ConsoleCosmosDBSample\obj\Debug\netcoreapp3.1\Conso
 E:\Desenv\Cosmos DB Tutorial\ConsoleCosmosDBSample\obj\Debug\netcoreapp3.1\ConsoleCosmosDBSample.dll
 E:\Desenv\Cosmos DB Tutorial\ConsoleCosmosDBSample\obj\Debug\netcoreapp3.1\ConsoleCosmosDBSample.pdb
 E:\Desenv\Cosmos DB Tutorial\ConsoleCosmosDBSample\obj\Debug\netcoreapp3.1\ConsoleCosmosDBSample.genruntimeconfig.cache
+E:\Desenv\CosmosDB\obj\Debug\netcoreapp3.1\ConsoleCosmosDBSample.csproj.AssemblyReference.cache
+E:\Desenv\CosmosDB\obj\Debug\netcoreapp3.1\ConsoleCosmosDBSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenv\CosmosDB\obj\Debug\netcoreapp3.1\ConsoleCosmosDBSample.AssemblyInfoInputs.cache
+E:\Desenv\CosmosDB\obj\Debug\netcoreapp3.1\ConsoleCosmosDBSample.AssemblyInfo.cs
+E:\Desenv\CosmosDB\obj\Debug\netcoreapp3.1\ConsoleCosmosDBSample.csproj.CoreCompileInputs.cache
+E:\Desenv\CosmosDB\obj\Debug\netcoreapp3.1\ConsoleCosmosDBSample.dll
+E:\Desenv\CosmosDB\obj\Debug\netcoreapp3.1\ConsoleCosmosDBSample.pdb

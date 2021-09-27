@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "MJk45OMwXW2PqvaiRKh/jIzr/f12RmIQtTtXuRxtRNfYd5FUYg7kUhgBWVzsfVHmIccIL4ExvcbgCkH/QYz4nw==",
+  "dgSpecHash": "WY0UrlY/Ak+gavU0L/GvUSn6y0wtLUHEJ0cqPQNdWHQcKERzW6aLWQn9a9yGI9jSPIHsB3pkTtp5C+TH3xi+og==",
   "success": true,
-  "projectFilePath": "E:\\Desenv\\Cosmos DB Tutorial\\ConsoleCosmosDBSample\\ConsoleCosmosDBSample.csproj",
+  "projectFilePath": "E:\\Desenv\\CosmosDB\\ConsoleCosmosDBSample.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\microsoft.azure.documentdb\\2.15.0\\microsoft.azure.documentdb.2.15.0.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\microsoft.azure.documentdb.core\\2.15.0\\microsoft.azure.documentdb.core.2.15.0.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
