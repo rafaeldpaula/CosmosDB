@@ -1,4 +1,6 @@
 using CosmosDBApp.Commands;
+using CosmosDBApp.Common;
+using CosmosDBApp.Common.Interface;
 using CosmosDBApp.Handlers;
 using MediatR;
 using Microsoft.AspNetCore.Builder;
@@ -28,16 +30,21 @@ namespace CosmosDBApp
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            #region Configurações dotNet Core
             services.AddControllers();
 
             services.AddSwaggerGen();
 
             services.AddMediatR(typeof(Startup));
+
+            services.AddTransient<IIniciarBancoDados, IniciarBancoDados>();
+            #endregion
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+            #region Configurações dotNet Core
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
@@ -60,7 +67,8 @@ namespace CosmosDBApp
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
-            });
+            }); 
+            #endregion
         }
     }
 }
